@@ -1173,7 +1173,7 @@ Example:
 Shows: ★★★★☆ (123)
 
 */
-@IBDesignable @objc open class CosmosView: UIView {
+@IBDesignable @objcMembers open class CosmosView: UIView {
     
   /**
   
