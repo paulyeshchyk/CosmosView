@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B622EB31B37BAE50090D81B /* Cosmos.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B622EB21B37BAE50090D81B /* Cosmos.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2B622EBA1B37BAE50090D81B /* Cosmos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B622EAF1B37BAE50090D81B /* Cosmos.framework */; };
 		2B622ED31B37BB700090D81B /* CosmosLayers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622EC91B37BB700090D81B /* CosmosLayers.swift */; };
 		2B622ED41B37BB700090D81B /* CosmosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ECA1B37BB700090D81B /* CosmosView.swift */; };
@@ -43,7 +42,6 @@
 		7E1A88471E3412CB0053A0FA /* RightToLeft.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE7F1E01E33254800995862 /* RightToLeft.swift */; };
 		7E236536201FEA5F00FD853B /* CosmosSettingsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E236535201FEA5F00FD853B /* CosmosSettingsTests.swift */; };
 		7E4295551B38C70900C66E9F /* launch_screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E4295541B38C70900C66E9F /* launch_screen.png */; };
-		7E646DB11C04438B00048339 /* Cosmos-tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E646DB01C04438B00048339 /* Cosmos-tvOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7E646DB61C04440B00048339 /* CosmosAccessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE834C01B9D0270007BFDD2 /* CosmosAccessibility.swift */; };
 		7E646DB71C04440B00048339 /* CosmosDefaultSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622ED01B37BB700090D81B /* CosmosDefaultSettings.swift */; };
 		7E646DB81C04440B00048339 /* CosmosLayers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B622EC91B37BB700090D81B /* CosmosLayers.swift */; };
@@ -336,7 +334,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B622EB31B37BAE50090D81B /* Cosmos.h in Headers */,
 				89C3109920A625B1001FCA22 /* CosmosView.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,7 +342,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E646DB11C04438B00048339 /* Cosmos-tvOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
